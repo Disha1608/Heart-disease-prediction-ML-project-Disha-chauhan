@@ -1,0 +1,7 @@
+git clone https://github.com/Disha1608/Heart-disease-prediction-ML-project.git
+cd Heart-disease-prediction-ML-project
+git init
+git add .
+git commit -m "Initial commit: Heart Disease Prediction ML project"
+git remote add origin https://github.com/Disha1608/Heart Disease Prediction ML project.git
+git push -u origin master
