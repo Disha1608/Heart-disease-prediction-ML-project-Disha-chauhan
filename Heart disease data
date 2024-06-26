@@ -1,7 +1,1 @@
-git clone https://github.com/Disha1608/Heart-disease-prediction-ML-project-Disha-chauhan.git
-cd "C:\Users\dell\Downloads\Heart disease prediction ML project  Disha chauhan.ipynb"
-git init
-git add
-git commit -m "Initial commit: Heart Disease Prediction ML project"
-git remote add origin https://github.com/Disha1608/Heart-disease-prediction-ML-project-Disha-chauhan.git
-git push -u origin master
+
